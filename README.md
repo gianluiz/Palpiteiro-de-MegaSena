@@ -1,2 +1,2 @@
 # Palpiteiro de MegaSena
- Tenha palpites para mega sena através de um programa em Python
+ Esse programa que utiliza Listas, Estrutura For e Estrutura While, tem a função de criar palpites para Mega Sena.
